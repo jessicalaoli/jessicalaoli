@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Hi👋 I'm Jéssica!
+<p>🔭 Engenheira Florestal em busca de novos conhecimentos</p>
+<p>🌱 Aperfeiçoando JavaScript, HTML, CSS, TypeScript entre outros</p>
+<p>:computer: Participante do programa GoDev-ImãLearningPlace</p>
+<p>:blue_book: Estudante da RocketSeat</>
+<div>
+<a href="https://instagram.com/jessyleiitea" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/j%C3%A9ssica-leite-andr%C3%A9-87b223175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
 <!--
 **jessicalaoli/jessicalaoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
